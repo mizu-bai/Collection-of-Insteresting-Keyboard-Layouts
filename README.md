@@ -6,10 +6,17 @@ Vintage keyboards are great, modern keyboards based on Cherry MX Switches are al
 
 * Model F XT
 
+![IBM Model F XT](IBM/IBM Model F XT.png)
+
 * Model F AT
 
-* Model F 122
+![IBM Model F AT](IBM/IBM Model F AT.png)
 
 * Model M
 
-* Model M from Unicomp
+![IBM Model M](IBM/IBM Model M.png)
+
+* Unicomp Model M
+
+![Unicomp Model F XT](IBM/Unicomp Model M.png)
+
