@@ -4,6 +4,8 @@ Vintage keyboards are great, modern keyboards based on Cherry MX Switches are al
 
 Images and json files are located at their folders.
 
+Online Editor: http://www.keyboard-layout-editor.com/#/
+
 ## IBM
 
 * Model F XT
