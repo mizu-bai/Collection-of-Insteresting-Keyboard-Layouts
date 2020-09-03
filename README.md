@@ -2,6 +2,8 @@
 
 Vintage keyboards are great, modern keyboards based on Cherry MX Switches are also not bad, but Apple Butterfly Keyboard sucks.
 
+Images and json files are located at their folders.
+
 ## IBM
 
 * Model F XT
